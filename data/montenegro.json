@@ -1,0 +1,16 @@
+{
+  "link": "https://milex.sipri.org/sipri",
+  "domain": "milex.sipri.org",
+  "tag": [
+    "milex.sipri.org",
+    "sipri"
+  ],
+  "category": "SIPRI Military Expenditure Database",
+  "description_category": "The SIPRI Military Expenditure Database gives the annual military spending of countries since 1949, allowing comparison of countries\u2019 military spending in local currency at current prices; in US dollars at constant prices and exchange rates; as a share of GDP; per capita and as a share of government spending. For information on definition, sources and methods, please see: https://www.sipri.org/databases/milex/sources-and-methods.",
+  "sub_category": "Country",
+  "country_name": "Montenegro",
+  "file_name": "montenegro.xlsx",
+  "path_data_raw": "data/xlsx/montenegro.xlsx",
+  "crawling_at": "2024-01-09T21:34:07",
+  "crawling_time_epoch": 1704810847
+}
